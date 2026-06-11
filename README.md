@@ -10,7 +10,8 @@ Este projeto foi desenvolvido para consolidar os fundamentos de desenvolvimento 
 ---
 
 ## 📸 Pré-visualização
-> **Dica:** Tira um *print screen* do teu projeto a funcionar, guarda a imagem na pasta do projeto com o nome `preview.png` e envia para o GitHub. Depois, podes apagar esta frase explicativa.
+<img width="296" height="159" alt="image" src="https://github.com/user-attachments/assets/2797988d-0437-4d71-b866-6d87366f7542" />
+
 
 
 ---
