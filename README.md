@@ -11,7 +11,7 @@ Este projeto foi desenvolvido para consolidar os fundamentos de desenvolvimento 
 
 ## 📸 Pré-visualização
 > **Dica:** Tira um *print screen* do teu projeto a funcionar, guarda a imagem na pasta do projeto com o nome `preview.png` e envia para o GitHub. Depois, podes apagar esta frase explicativa.
-![Preview do TaskMaster](./preview.png)
+
 
 ---
 
